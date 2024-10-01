@@ -101,7 +101,7 @@ To replicate this analysis or use the provided scripts and datasets, follow thes
 ### **How to Cite**
 Please cite this repository in your work as:
 
-> Author Name, *Ecology and Evolution of Fractional Vegetation Cover: A Spatiotemporal Analysis Using Machine Learning and Trend Detection*, GitHub Repository, Year.
+> *Update Soon*
 
 ---
 
