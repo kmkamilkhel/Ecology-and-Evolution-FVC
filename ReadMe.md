@@ -1,4 +1,4 @@
-# ** Fractional Vegetation Cover (FVC) - - (Ecology and Evolution)**
+# Fractional Vegetation Cover (FVC) (Ecology and Evolution)**
 
 **Repository Overview**  
 This repository contains the datasets, R scripts, and Google Earth Engine (GEE) code used to analyze the spatiotemporal dynamics of Fractional Vegetation Cover (FVC) across various regions. The project integrates machine learning models and environmental predictors such as precipitation, temperature, soil moisture, and other climatic variables to forecast and analyze vegetation dynamics over time. This data has been used in the manuscript and made available for open access.
